@@ -59,5 +59,3 @@ npx ts-node-dev src/index.ts
 | GET    | /resources/:id | Get a resource by ID     |
 | PUT    | /resources/:id | Update a resource by ID  |
 | DELETE | /resources/:id | Delete a resource by ID  |
-
-```
